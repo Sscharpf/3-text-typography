@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(211, 233, 253);
+    font-family: "good-kitty", sans-serif;
+}
+
+.site-header {
+    background-color:aqua;
+    color:rgb(3, 41, 99);
+    font-family: "Black Ops One", system-ui;
+    font-size:50px;
+    line-height: 1;
+    font-weight: 100;
+    text-align: center;
+}
+
+.callout {
+    color:darkorange;
+    font-weight: 800;
+}
+
+.address {
+    text-align: right;
+}
